@@ -6,7 +6,7 @@
 
 ###Download through GitHub
 
-###URL: View @ http://johndeezy.github.io/code-review-3/ and download @ https://github.com/johndeezy/code-review-3.git
+###URL: View @ http://dowjohn.github.io/code-review-3/ and download @ https://github.com/dowjohn/code-review-3.git
 
 ###Setup: Download through GitHub and open index html in chrome
 
